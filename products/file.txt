@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Corolla Cross",
+        "price": 70000,
+        "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_701600-MLA50330219441_062022-O.webp",
+        "id": 1
+    },
+    {
+        "title": "Yaris",
+        "price": 40000,
+        "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_649467-MLA51303923409_082022-O.webp",
+        "id": 2
+    },
+    {
+        "title": "Corolla",
+        "price": 50000,
+        "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_708035-MLA50207047549_062022-O.webp",
+        "id": 3
+    }
+]
